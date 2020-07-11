@@ -1,0 +1,66 @@
+How To Approach Interviews For Data Science(Data Analyst And Data Scientist)
+
+Freshers                   Experienced
+Resume, github, contribution to Data Science Community(kaggle,hackathon,writing vlogs,teaching)
+
+Freshers---interviews or internships-------internships------ Difficult--24-48 hours....Explore about the company----reviews---glassdoor--linkedin
+
+interviews---ML atleast+ DL opencv
+
+----MAchine Learning Algorithms---KNN,Logistic Regression
+----outliers, imbalanced dataset,scaling, different types of scaling
+----Lifecycle of A Data Science Projects
+----Feature Engineering- Scaling, Handling Missing Values,Transformation,Guassian Distribution , Normal Distribution, Other types  of distribution, How do u check whether data is guassian distributed?
+Linear Regression, Logistic Regression works well with guassian distributed data,log,box cox, categorical features---onehotencoding,label encoding,target mean encoding, Text Preprocessing- BOW,TDIDF,Word2vec,gensim,Word Embedding 
+{ordinal,nominal}
+Feature Selection- PCA, Curse of Dimensionality?, feature important , ExtraRegressot Tree,Kbest,forward selection & backward selection and ---p value, multticolinearity, Correlation,Pearson Corr, Spearman Rank Correlation,
+Ridge And Lasso
+
+Model Creation---How do u decide ur model?? Hyperparameter Tuning 
+verify with all the algorithms? Performance metrics
+Classification:Accuracy,REcall, Confusion matrix,Precision ,TP,FP,TN,FN, F1 
+Score, Auc ROC curve
+Regression: mse,mae,rmse,r2 score,adjusted r2 score,scatterplot,distplot
+
+Model Deployment- Streamlit,Flask, Django, API, Pivotal,Heroku, AWS EC2, Azure, Google Cloud
+Output-Mongodb-Dashbaord- Tableau, Powerbi
+
+Experience:
+5-6----Previous experience as your domain expertise knowledge
+
+8+=Architecture- Roles And Responsibilities--Big Data Team, ML Engineers, Data analyst,Cloud Architecture, Database architect, ML Reasearcher
+Resume--Explain your projects- Domain  knowledge
+---Data Collection---Which Database u worked in?
+---Data Analysis
+---Feature Engineering---
+---Feature Selection---
+---Model Creation---
+---Hyperparameter Tuning---
+---Model Deployment---
+---Model Retraining Aprroach---
+---Dashboard creation---
+
+
+Deep Learning---
+1-- ANN
+2---CNN---RCNN, Masked RCNN, Yolo, Object Detection
+3---RNN---LSTM,GRU,Bidirectional,Encoder, Decoder, Attention Models, 
+Transformers,BERT,ALbert
+
+OS- Linux,GPU,configures
+Libraries---Tensorflow, Keras and Pytorch, opencv,sklearn
+
+Seperate Pytorch Playlist
+
+
+
+
+
+
+
+
+
+
+
+
+ 
